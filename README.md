@@ -16,5 +16,10 @@
 ## 🔧 Projetos em andamento
 - 📊 Analisador de criptomoedas com alertas em tempo real Spot vs Futuros
 
+
+--- 
+## 🔧 Projetos pessoais 
+https://the-forest-ever.netlify.app
+
 ## 📫 Onde me encontrar
 - GitHub: [github.com/OQAY](https://github.com/OQAY)
