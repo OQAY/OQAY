@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá! Eu sou o OQAY 👋
 
-<!--
-**OQAY/OQAY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor iniciante explorando automações, bots e criatividade digital.  
+🌍 Foco em projetos remotos, inovadores e abertos ao mundo.  
+🧠 Apaixonado por IA, segurança digital e soluções simples.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias que uso
+- Python, JavaScript
+- Git & GitHub
+- Selenium, Puppeteer, APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ Projetos em andamento
+- Automatizador de tarefas com IA
+- Geração de documentos com OCR
+- Bots de análise de criptomoedas
+
+## 📫 Contato
+- GitHub: [github.com/OQAY](https://github.com/OQAY)
