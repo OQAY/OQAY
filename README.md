@@ -1,18 +1,20 @@
-# Olá! Eu sou o OQAY 👋
+# 👋 Olá! Eu sou o OQAY
 
-💻 Desenvolvedor iniciante explorando automações, bots e criatividade digital.  
-🌍 Foco em projetos remotos, inovadores e abertos ao mundo.  
-🧠 Apaixonado por IA, segurança digital e soluções simples.
+💡 Desenvolvedor em formação, com entusiasmo por **automações inteligentes**, **bots criativos** e soluções que simplificam o dia a dia.  
+🌐 Apaixonado por tecnologia, com foco em **projetos remotos**, acessíveis e impactantes.  
+🧠 Interesso-me por **inteligência artificial**, **segurança digital** e tudo que envolve inovação e eficiência.
 
-## 🚀 Tecnologias que uso
-- Python, JavaScript
-- Git & GitHub
-- Selenium, Puppeteer, APIs
+---
 
-## ✨ Projetos em andamento
-- Automatizador de tarefas com IA
-- Geração de documentos com OCR
-- Bots de análise de criptomoedas
+## 🚀 Tecnologias e Ferramentas
+- **Linguagens:** Python, JavaScript, HTML, CSS
+- **Ferramentas:** Git, GitHub, APIs  
+- **Automação & Web Scraping:** Selenium, Puppeteer, SilverScript, MacroRecorder, BAS  
 
-## 📫 Contato
+---
+
+## 🔧 Projetos em andamento
+- 📊 Analisador de criptomoedas com alertas em tempo real Spot vs Futuros
+
+## 📫 Onde me encontrar
 - GitHub: [github.com/OQAY](https://github.com/OQAY)
