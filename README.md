@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o OQAY
+# 👋 Olá! Eu sou o LUCAS SILVA
 
 💡 Desenvolvedor em formação, com entusiasmo por **automações inteligentes**, **bots criativos** e soluções que simplificam o dia a dia.  
 🌐 Apaixonado por tecnologia, com foco em **projetos remotos**, acessíveis e impactantes.  
