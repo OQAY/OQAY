@@ -1,6 +1,12 @@
 # 👋 Olá! Eu sou o LUCAS SILVA
 
-![Pacman Contribution Graph](dist/pacman-contribution-graph.svg)
+## My Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OQAY/OQAY/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OQAY/OQAY/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/OQAY/OQAY/output/pacman-contribution-graph.svg">
+</picture>
 
 💡 Desenvolvedor em formação, com entusiasmo por **automações inteligentes**, **bots criativos** e soluções que simplificam o dia a dia.  
 🌐 Apaixonado por tecnologia, com foco em **projetos remotos**, acessíveis e impactantes.  
