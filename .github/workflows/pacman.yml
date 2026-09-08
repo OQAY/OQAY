@@ -10,6 +10,11 @@ on:
     branches:
       - main
 
+# evita que dois runs tentem commitar o mesmo arquivo ao mesmo tempo
+concurrency:
+  group: pacman-graph
+  cancel-in-progress: false
+
 jobs:
   generate:
     permissions:
@@ -53,4 +58,5 @@ jobs:
             exit 0
           fi
           git commit -m "chore: update pacman contribution graph"
+          git pull --rebase -X theirs origin main
           git push
