@@ -24,18 +24,33 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: "18"
+          node-version: "20"
 
       - name: Install pacman-contribution-graph
-        run: npm install -g pacman-contribution-graph
+        run: npm install -g pacman-contribution-graph@5.3.1
 
       - name: Generate pacman SVG
         run: |
           mkdir -p dist
-          pacman-contribution-graph --platform github --username ${{ github.repository_owner }} --gameTheme github --output dist/pacman-contribution-graph.svg
+          pacman-contribution-graph \
+            --platform github \
+            --username ${{ github.repository_owner }} \
+            --gameTheme github \
+            --output dist/pacman-contribution-graph.svg
+          pacman-contribution-graph \
+            --platform github \
+            --username ${{ github.repository_owner }} \
+            --gameTheme github-dark \
+            --output dist/pacman-contribution-graph-dark.svg
 
       - name: Commit and push changes
         run: |
-          git add .
-          git commit -m "Update pacman contribution graph" || exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dist/pacman-contribution-graph.svg dist/pacman-contribution-graph-dark.svg
+          if git diff --staged --quiet; then
+            echo "Grafico sem alteracoes - nada a commitar."
+            exit 0
+          fi
+          git commit -m "chore: update pacman contribution graph"
           git push
