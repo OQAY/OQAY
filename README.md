@@ -20,6 +20,8 @@ Lidero a engenharia de um portfólio de produtos na **SEC365**: coordeno desenvo
 distribuídos entre frentes paralelas, quebro escopo em trabalho executável, reviso entrega —
 e continuo escrevendo código todo dia.
 
+**Escala atual:** 13 projetos ativos em duas operações · times somando 17 pessoas
+
 | Frente | O que envolve |
 | --- | --- |
 | **Arquitetura & backend** | Serviços em Python/FastAPI, filas e workers assíncronos, modelagem de dados e migrations, APIs que precisam sustentar carga real |
